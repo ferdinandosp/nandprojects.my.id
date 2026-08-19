@@ -224,6 +224,16 @@ a:hover { text-decoration: underline; }
   font-size: 1.1rem;
   font-weight: 600;
 }
+.contact-card__label {
+  color: var(--muted);
+  font-size: .9rem;
+  margin-bottom: .5rem;
+}
+.contact-card__note {
+  margin-top: 1rem;
+  color: var(--muted);
+  font-size: .88rem;
+}
 
 /* ── Footer ── */
 .site-footer {
